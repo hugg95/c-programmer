@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+void changeArray(int array[]) {
+    //
+}
+
 int main() {
     // if do not initialize the array, elements' value will be random
     int numbers[10] = {0};

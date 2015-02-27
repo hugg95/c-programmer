@@ -5,5 +5,6 @@ int main() {
     while ((in = getchar()) != EOF) {
         putchar(in);
     }
+
     return 0;
 }
